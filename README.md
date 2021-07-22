@@ -57,3 +57,7 @@ test_index:
 
 使用方法和基本 pytest 用法没有太大区别
 > pytest -s tests/test_case --alluredir "report/test"
+
+查看报告
+allure serve report/test
+
