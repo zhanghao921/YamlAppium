@@ -51,7 +51,7 @@ test_index:
  |      检测权限窗口 
 ```
 #### 运行方式（appium先启动）
-> pytest -s ./test_case/test_ranking.yml --alluredir './report/test'
+> pytest -s ./test_case/test_search.yml --alluredir './report/test'
 
 或者直接运行文件目录
 
